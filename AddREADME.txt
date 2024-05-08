@@ -1,4 +1,5 @@
-GIT : version control system is a tools that helps to track changes in code. GIT is a version control system. It is popular free & open source fast & scalable tool.
+GIT : version control system is a tools that helps to track changes in code. GIT is a version control system. 
+It is popular free & open source fast & scalable tool.
 How I can used github & git ? what is the purpose of it?
 -Track the history
 -collborate
