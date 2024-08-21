@@ -1,3 +1,4 @@
+<b>
 GIT : version control system is a tools that helps to track changes in code. GIT is a version control system. 
 It is popular free & open source fast & scalable tool.
 How I can used github & git ? what is the purpose of it?
@@ -79,5 +80,5 @@ case 3 : commited changes (for many commits)
 -git reset <-commit hase->
 -git reset --hard 
 
-
+</b>
 
